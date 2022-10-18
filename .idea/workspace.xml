@@ -2,43 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="796f8483-36ec-489d-be1f-0e57c358feb5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Homework5.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.4.cycles.datatypes/main.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.4.cycles.datatypes/output.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2.4.files/lection_code/1_simple_work.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2.4.files/lection_code/2_context_manager.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2.4.files/lection_code/3_read.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2.4.files/lection_code/4_write.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2.4.files/lection_code/5_errors.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2.4.files/lection_code/5_try_exept.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2.4.files/lection_code/6_encoding.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2.4.files/lection_code/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2.4.files/lection_code/cp.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2.4.files/lection_code/data.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2.4.files/lection_code/data_2.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2.4.files/lection_code/data_3.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2.4.files/lection_code/file.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2.4.files/lection_code/test.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2.4.files/lection_code/utf.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2.4.files/recipes.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2.4.files/sorted/1.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2.4.files/sorted/2.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2.4.files/sorted/3.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3.1.formats.json.xml/newsafr.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3.1.formats.json.xml/newsafr.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3.2.http.requests/DE.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3.2.http.requests/ES.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3.2.http.requests/FR.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3.2.http.requests/example.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/6.classes/question4/1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/6.classes/question4/2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/6.classes/question4/3.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/6.classes/question4/4.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/6.classes/question5/1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/6.classes/question5/2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/6.classes/question5/3.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework6.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework5.py" beforeDir="false" afterPath="$PROJECT_DIR$/Homework5.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,13 +22,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/grad0/OneDrive/Рабочий стол/HomeworkNetology/py-homework-basic-files&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "last_opened_file_path": "C:/Users/grad0/OneDrive/Рабочий стол/123"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\grad0\OneDrive\Рабочий стол\123" />
       <recent name="C:\Users\grad0\OneDrive\Рабочий стол\HomeworkNetology\py-homework-basic-files" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
